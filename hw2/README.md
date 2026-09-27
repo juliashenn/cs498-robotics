@@ -8,12 +8,12 @@ The full instructions and starter code for Booster Assignment 2 are available in
 
 **Deadlines**
 
-- **Training Checkpoint:** Wednesday, September 23 at 11:59 PM
+- **Training Checkpoint:** Wednesday, September 25 at 11:59 PM
 - **Final Submission:** Monday, September 28 at 11:59 PM
 
 **Training Checkpoint**
 
-By **Wednesday, September 23 at 11:59 PM**, you must have completed the implementation required to begin training and submitted your **first training job on Delta**.
+By **Wednesday, September 25 at 11:59 PM**, you must have completed the implementation required to begin training and submitted your **first training job on Delta**.
 
 For the checkpoint, submit the following file on Canvas:
 
